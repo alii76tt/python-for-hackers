@@ -1,5 +1,6 @@
 <h1 align='center'>Python Gmail Brute Force Attack</h1>
 <p align='center'>Brute force attack on gmail written in python. This process will take a long time depending on the length of the password.</p>
+<p align='center'>Note: The target must have 'Less secure app access' turned on.</p>
 
 <p align='center'>
     <img align="center" src="./images/1.png" style="max-width:35em">
