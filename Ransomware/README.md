@@ -37,7 +37,10 @@ PyQt5-sip==12.9.0
 requests==2.26.0
 urllib3==1.26.7
 ```
+<hr>
 
+## Attention ⚠️
+These scripts contain stuff that can get you in trouble. This is for educational purposes only. Do not abuse.
 
 ### Operating Instructions
 
